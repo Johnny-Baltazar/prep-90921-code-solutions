@@ -14,6 +14,6 @@ let length = languages.length;
 
 console.log("The length of the array is " + length);
 
-let lastElement = languages[5];
+let lastElement = languages[languages.length - 1];
 
 console.log("The last element of the array is " + lastElement);
